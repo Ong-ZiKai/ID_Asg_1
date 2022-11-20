@@ -10,6 +10,9 @@ My project involves creating a website about me, the life experiences i have gon
 
 ## Technologies Used
 
+Languages used 
+- HTML
+- CSS
 
 ## Testing
 No testing done as of now
