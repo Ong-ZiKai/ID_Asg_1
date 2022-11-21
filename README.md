@@ -25,7 +25,9 @@ No testing done as of now
 
 
 ### Media
-
+I received media content from 
+- https://en.wikipedia.org/wiki/Studio_Ghibli
+- https://lwlies.com/articles/japanese-studio-ghibli-film-posters/
 
 ### Acknowledgements
 I received inspiration for this project from 
