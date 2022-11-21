@@ -1,6 +1,6 @@
-# Zi Kai's 18th milestone thoughts
+# Studio Ghibli
 
-My project involves creating a website about me, the life experiences i have gone through up until now. it is like a blog of me throughout the different stages of my life that i could remember. This project is aimed at my future self first of all, so that i am able to better recollect the memories of the past and what i personally feel about it. This project is also aimed towards future employers to have a better understanding of who i am and my thoughts, to any future children i might have in the future to know more about me.
+My project involves creating a website about a anime studio, and the work that they have done. It is a website that tells about all the works that they have created, each film that they have worked on and the timeline of their work. This project also provides snippets of each film and covers the main idea of each film. This project is aimed towards fans of studio ghibli so that they can view their favourite films and recollect on their experience with each film. Users who hop onto the website use the webpage to view different films made by studio ghibli so that they will be able to immerse themselves in the work of studio ghibli throughout the years, from 1986 up till now.
 
 ## Design Process
 /fill in the XD file etc
@@ -13,11 +13,13 @@ My project involves creating a website about me, the life experiences i have gon
 Languages used 
 - HTML
 - CSS
+- Javascript
 
 ## Testing
 No testing done as of now
 
 ## Credits
+
 
 ### Content
 
@@ -28,3 +30,4 @@ No testing done as of now
 ### Acknowledgements
 I received inspiration for this project from 
 - https://rhinoshield.co/?utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMI0sLL8ti8-wIVwn0rCh1fZwxwEAAYASAAEgLIpPD_BwE
+- 
