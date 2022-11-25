@@ -29,6 +29,7 @@ i received text content from
 I received media content from 
 - https://en.wikipedia.org/wiki/Studio_Ghibli
 - https://lwlies.com/articles/japanese-studio-ghibli-film-posters/
+- 
 
 ### Acknowledgements
 I received inspiration for this project from 
