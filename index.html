@@ -1,16 +1,17 @@
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="slick.css">
     <title>Studio G3bli</title>
 </head>
 
 
 <body>
     <header>
-        <img src="work materials/content.JPG" width="250px" height="150px" class="logo">
+        <img src="work materials/content.JPG" class="logo">
         <input type="checkbox" id="nav-toggle" class="nav-toggle">
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li><a href="#">Timeline</a></li>
                 <li><a href="#">Store</a></li>
                 <li><a href="#">Feedback</a></li>
@@ -20,6 +21,38 @@
             <span></span>
         </label>
     </header>
-    <div style='height:150px;'></div>
-    <p></p>
+
+    <!-- <div style='height: 150px;'></div>
+
+    <div>
+        <img class="homeimage" src="work materials/homeslider1.jpg">
+    </div> -->
+
+
+    <div class="banner_slider_wrap">
+        <div class="banner_slider">
+            <div><a href="#"><img src="work materials/homeslider1.jpg"
+                        style='height: 100%; width: 100%; object-fit: cover'></a></div>
+            <div><a href="#"><img src="work materials/homeslider2.jpg"
+                        style='height: 100%; width: 100%; object-fit: cover'></a></div>
+            <div><a href="#"><img src="work materials/homeslider3.jpg"
+                        style='height: 100%; width: 100%; object-fit: cover'></a></div>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="slick.js"></script>
+    <script type="text/javascript">
+        $('.banner_slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 3000,
+            autoplay: true,
+            fade: true,
+            speed: 2000,
+            autoplayspeed: 1000,
+            slidesToShow: 1
+        });
+    </script>
+
 </body>
