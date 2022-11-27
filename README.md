@@ -24,6 +24,15 @@ No testing done as of now
 ### Content
 i received text content from
 - https://www.imdb.com/title/tt0096283/
+- https://www.netflix.com/sg/title/80013552?source=35
+- https://www.netflix.com/sg/title/60032294?source=35
+- https://www.netflix.com/sg/title/60027106?source=35
+- https://www.netflix.com/sg/title/70019060?source=35
+- https://www.netflix.com/sg/title/28630857?source=35
+- https://www.netflix.com/sg/title/60023642?source=35
+- https://www.netflix.com/sg/title/70028883?source=35
+- https://www.netflix.com/sg/title/60027393?source=35
+- https://www.imdb.com/title/tt0095327/plotsummary
 
 ### Media
 I received media content from 
