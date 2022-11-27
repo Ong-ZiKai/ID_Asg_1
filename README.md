@@ -29,7 +29,12 @@ i received text content from
 I received media content from 
 - https://en.wikipedia.org/wiki/Studio_Ghibli
 - https://lwlies.com/articles/japanese-studio-ghibli-film-posters/
-- 
+
+Home page slider content
+- https://www.dazeddigital.com/artsandculture/article/32059/1/unraveling-the-fan-theory-behind-ghibli-s-totoro
+- https://letterboxd.com/film/spirited-away/
+- https://ichthyoid.writeas.com/castle-in-the-sky-a-study-in-world-building
+- https://www.imdb.com/title/tt0119698/
 
 ### Acknowledgements
 I received inspiration for this project from 
