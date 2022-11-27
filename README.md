@@ -30,11 +30,14 @@ I received media content from
 - https://en.wikipedia.org/wiki/Studio_Ghibli
 - https://lwlies.com/articles/japanese-studio-ghibli-film-posters/
 
-Home page slider content
+Home page slider content & movie gallery
 - https://www.dazeddigital.com/artsandculture/article/32059/1/unraveling-the-fan-theory-behind-ghibli-s-totoro
 - https://letterboxd.com/film/spirited-away/
 - https://ichthyoid.writeas.com/castle-in-the-sky-a-study-in-world-building
 - https://www.imdb.com/title/tt0119698/
+- https://sea.ign.com/howls-moving-castle/188263/feature/the-11-best-studio-ghibli-films-of-all-time
+
+
 
 ### Acknowledgements
 I received inspiration for this project from 
