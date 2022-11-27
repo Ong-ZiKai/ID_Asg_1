@@ -1,6 +1,6 @@
-# Studio Ghibli
+# Studio G3bli
 
-My project involves creating a website about a anime studio, and the work that they have done. It is a website that tells about all the works that they have created, each film that they have worked on and the timeline of their work. This project also provides snippets of each film and covers the main idea of each film. This project is aimed towards fans of studio ghibli so that they can view their favourite films and recollect on their experience with each film. Users who hop onto the website use the webpage to view different films made by studio ghibli so that they will be able to immerse themselves in the work of studio ghibli throughout the years, from 1986 up till now.
+My project involves creating a website about a anime studio, and the work that they have done. It is a website that tells about all the works that they have created, each film that they have worked on and the timeline of their work. This project also provides snippets of each film and covers the main idea of each film. This project is aimed towards fans of studio g3bli so that they can view their favourite films and recollect on their experience with each film. Users who hop onto the website use the webpage to view different films made by studio g3bli so that they will be able to immerse themselves in the work of studio g3bli throughout the years, from 1986 up till now.
 
 ## Design Process
 /fill in the XD file etc
