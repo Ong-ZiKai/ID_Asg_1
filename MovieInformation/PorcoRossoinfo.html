@@ -1,0 +1,100 @@
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="../styles.css">
+    <link rel="stylesheet" type="text/css" href="informationpage.css">
+    <link rel="stylesheet" type="text/css" href="../slick.css">
+    <title>Character informtion</title>
+</head>
+
+<body>
+    <header>
+        <img src="../work materials/Logo.JPG" class="logo">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <nav>
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../Movie gallery.html">Timeline</a></li>
+                <li><a href="#">Store</a></li>
+                <li><a href="#">Feedback</a></li>
+            </ul>
+        </nav>
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+    </header>
+
+    <!--testing purposes-->
+
+    <div style='height: 109px;'></div>
+
+    <div class="flexbox-container">
+        <div class="flexbox-item flexbox-item-0">
+            <h1>Porco Rosso</h1>
+        </div>
+        <div class="flexbox-item flexbox-item-1">
+            <div class="banner_slider_wrap">
+                <div class="banner_slider">
+                    <div><a href="#"><img src="../work materials/totoromain.jpg"
+                                style='height: 100%; width: 100%; object-fit: cover'></a></div>
+                    <div><a href="#"><img src="../work materials/spiritedawaymain.jpg"
+                                style='height: 100%; width: 100%; object-fit: cover'></a></div>
+                    <div><a href="#"><img src="../work materials/graveofthefirefliesmain.jpg"
+                                style='height: 100%; width: 100%; object-fit: cover'></a></div>
+                    <div><a href="#"><img src="../work materials/porcorossomain.jpg"
+                                style='height: 100%; width: 100%; object-fit: cover'></a></div>
+                    <div><a href="#"><img src="../work materials/howlsmovingcastlemain.jpg"
+                                style='height: 100%; width: 100%; object-fit: cover'></a></div>
+                </div>
+            </div>
+
+            <script type="text/javascript"
+                src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+            <script type="text/javascript" src="../slick.js"></script>
+            <script type="text/javascript">
+                $('.banner_slider').slick({
+                    dots: true,
+                    infinite: true,
+                    speed: 3000,
+                    autoplay: true,
+                    fade: true,
+                    speed: 2000,
+                    autoplayspeed: 3000,
+                    slidesToShow: 1
+                });
+            </script>
+        </div>
+        <div class="flexbox-container2">
+            <div class="flexbox-item flexbox-item-2" style="border-radius: 2%; background-color: white">
+                <p>
+                <h1>Overview</h1> <br><br>
+                <h3 style="line-height: 0.7cm;font-size: 100%;padding: 0 10px 0 10px;">
+                    Two young girls, 10-year-old Satsuki and her 4-year-old sister Mei,
+                    move into a house in the country with their father to be closer to their hospitalized
+                    mother. Satsuki and Mei discover that the nearby forest is inhabited by magical creatures called
+                    Totoros (pronounced toe-toe-ro). They soon befriend these Totoros, and have several magical
+                    adventures.
+                </h3>
+                </p>
+            </div>
+            <div class="flexbox-item flexbox-item-4" style="text-align: center;">
+                <h1>Purchase Movie</h1>
+                <button class="button button1">Go to shop</button>
+            </div>
+        </div>
+
+        <div class="flexbox-item flexbox-item-3" style="padding-top: 10%;">
+            <h1 style="text-align:center;">Featured video</h1>
+            <div class="iframe-container">
+                <iframe src="https://www.youtube.com/embed/92a7Hj0ijLs" title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
