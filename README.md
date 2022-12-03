@@ -14,6 +14,8 @@ Languages used
 - HTML
 - CSS
 - Javascript
+- JQuery
+   - e
 
 ## Testing
 No testing done as of now
