@@ -10,7 +10,7 @@ My project involves creating a website about a anime studio, and the work that t
 
 ## Technologies Used
 - JQuery
-  - Slick
+  - Slick (for the carousell, approved by my lecturer when i inquired) 
 
 Languages used 
 - HTML
