@@ -9,16 +9,18 @@ My project involves creating a website about a anime studio, and the work that t
 
 
 ## Technologies Used
+- JQuery
+ - Slick
 
 Languages used 
 - HTML
 - CSS
 - Javascript
-- JQuery
-   - e
+
 
 ## Testing
-No testing done as of now
+Tested webpage in iphone 12 Pro to iphone 5
+laptop
 
 ## Credits
 
