@@ -1,3 +1,123 @@
 <head>
-
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="shop.css">
+    <script src="shop.js" async></script>
+    <title>Studio G3bli</title>
 </head>
+
+<body>
+
+    <header>
+        <img src="work materials/Logo.JPG" class="logo">
+        <input type="checkbox" id="nav-toggle" class="nav-toggle">
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Movie gallery.html">Timeline</a></li>
+                <li><a href="#top">Store</a></li>
+                <li><a href="#">Feedback</a></li>
+            </ul>
+        </nav>
+        <label for="nav-toggle" class="nav-toggle-label">
+            <span></span>
+        </label>
+    </header>
+
+    <div style='height: 109px;'></div>
+
+    <section class="container content-section">
+        <h2 class="section-header">Movies available</h2>
+        <div class="shop-items">
+            <div class="shop-item">
+                <span class="shop-item-title">My neighbour Totoro</span>
+                <img class="shop-item-image" src="work materials/posterimage/totoro.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Howl's moving castle</span>
+                <img class="shop-item-image" src="work materials/posterimage/howl.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Kiki's delivery service</span>
+                <img class="shop-item-image" src="work materials/posterimage/kiki.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Porco Rosso</span>
+                <img class="shop-item-image" src="work materials/posterimage/porco.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Princess Kaguya</span>
+                <img class="shop-item-image" src="work materials/posterimage/princesskaguya.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Castle in the sky</span>
+                <img class="shop-item-image" src="work materials/posterimage/Castle_in_the_Sky.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Grave of the fireflies</span>
+                <img class="shop-item-image" src="work materials/posterimage/graveofthefireflies.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Spirited away</span>
+                <img class="shop-item-image" src="work materials/posterimage/spirited away.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Princess mononoke</span>
+                <img class="shop-item-image" src="work materials/posterimage/Princess_Mononoke.jpg">
+                <div class="shop-item-details">
+                    <span class="shop-item-price">$20</span>
+                    <button class="btn btn-primary shop-item-button" type="button">ADD TO CART</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="container content-section">
+        <h2 class="section-header">CART</h2>
+        <div class="cart-row">
+            <span class="cart-item cart-header cart-column">ITEM</span>
+            <span class="cart-price cart-header cart-column">PRICE</span>
+            <span class="cart-quantity cart-header cart-column">QUANTITY</span>
+        </div>
+        <div class="cart-items">
+        </div>
+        <div class="cart-total">
+            <strong class="cart-total-title">Total</strong>
+            <span class="cart-total-price">$0</span>
+        </div>
+        <button class="btn btn-primary btn-purchase" type="button">PURCHASE</button>
+    </section>
+
+</body>
