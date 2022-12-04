@@ -3,10 +3,17 @@
 My project involves creating a website about a anime studio, and the work that they have done. It is a website that tells about all the works that they have created, each film that they have worked on and the timeline of their work. This project also provides snippets of each film and covers the main idea of each film. This project is aimed towards fans of studio g3bli so that they can view their favourite films and recollect on their experience with each film. Users who hop onto the website use the webpage to view different films made by studio g3bli so that they will be able to immerse themselves in the work of studio g3bli throughout the years, from 1986 up till now.
 
 ## Design Process
-/fill in the XD file etc
+The design of this website is made for both mobile phones and computer screens which makes it responsive. The website is focused for those who are looking to purchase films from studio g3bli. The project is the best way to help them achieve this goal as it gives them a breakdown of the film and it allows users to purchase said films.
+
+As a user, i would want to purchase a film 'My neighbour totoro', but im not sure of its contents so i go to the movie page and read more about it, then if i still like it i would then purchase the item.
 
 ## Features
-
+- Feature 1 - allows users to navigate the different web pages by clicking on the link at the nav bar
+- Feature 2 - allows users to view different movie previews by clicking on the side arrows on the homepage
+- Feature 3 - allows users to view different movie overview by reading the textbox
+- Feature 4 - allows users to watch a trailer by clicking on a watch trailer button
+- Feature 5 - allows users to purchase items in a store by clicking on a add to cart button then they can purchase as many items as they want
+- Feature 6 - allows users to view all the movies available by scrolling down a list of movies
 
 ## Technologies Used
 - JQuery
@@ -86,4 +93,8 @@ Home page slider content & movie gallery
 ### Acknowledgements
 I received inspiration for this project from 
 - https://rhinoshield.co/?utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMI0sLL8ti8-wIVwn0rCh1fZwxwEAAYASAAEgLIpPD_BwE
-- 
+- https://www.mcdonalds.com.sg
+- https://www.youtube.com/watch?v=bW8X-tt5AZQ
+- https://www.youtube.com/watch?v=8QKOaTYvYUA
+- https://www.youtube.com/watch?v=YeFzkC2awTM
+- https://www.youtube.com/watch?v=4I-bDoMphag
